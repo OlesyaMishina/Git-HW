@@ -10,4 +10,7 @@ Git HW!
 
 git pull recipes-gh main --allow-unrelated-histories
 
+Что бы передать изменения из локального репозитория в удаленный после отмены коммитов использовать
+git push origin +HEAD 
+
 Git - HW2
