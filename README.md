@@ -9,3 +9,5 @@ Git HW!
 После первого запуска команде git pull этот флаг не требуется:
 
 git pull recipes-gh main --allow-unrelated-histories
+
+Git - HW2
